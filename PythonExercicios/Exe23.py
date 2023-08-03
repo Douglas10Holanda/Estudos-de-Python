@@ -8,6 +8,7 @@ unidade: 4
 dezena: 3
 centena: 8
 milhar: 1
+
 """
 
 num = int(input("Digite um número: "))
